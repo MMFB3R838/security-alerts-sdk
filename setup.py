@@ -11,12 +11,12 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8') if
 setup(
     name='security-alerts-sdk',
     version='1.0.0',
-    author='David Chen',
-    author_email='david.chen.sec@protonmail.com',
+    author='Security Research Team',
+    author_email='security-research@protonmail.com',
     description='Monitor your digital assets for security leaks and breaches',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/davidchen-sec/security-alerts-sdk',
+    url='https://github.com/MMFB3R838/security-alerts-sdk',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -39,8 +39,8 @@ setup(
     ],
     keywords='security monitoring breach detection haveibeenpwned github secrets',
     project_urls={
-        'Bug Reports': 'https://github.com/davidchen-sec/security-alerts-sdk/issues',
-        'Source': 'https://github.com/davidchen-sec/security-alerts-sdk',
-        'Documentation': 'https://github.com/davidchen-sec/security-alerts-sdk#readme',
+        'Bug Reports': 'https://github.com/MMFB3R838/security-alerts-sdk/issues',
+        'Source': 'https://github.com/MMFB3R838/security-alerts-sdk',
+        'Documentation': 'https://github.com/MMFB3R838/security-alerts-sdk#readme',
     },
 )

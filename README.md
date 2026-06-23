@@ -23,7 +23,7 @@ pip install security-alerts-sdk
 Or install from source:
 
 ```bash
-git clone https://github.com/davidchen-sec/security-alerts-sdk.git
+git clone https://github.com/MMFB3R838/security-alerts-sdk.git
 cd security-alerts-sdk
 pip install -e .
 ```
@@ -214,7 +214,7 @@ A: Yes. The SDK only queries public breach databases and never stores your domai
 A: Absolutely! The SDK is designed for both development and production use. Consider disabling analytics in production environments if you prefer.
 
 **Q: What if I find a bug?**  
-A: Please report issues at https://github.com/davidchen-sec/security-alerts-sdk/issues
+A: Please report issues at https://github.com/MMFB3R838/security-alerts-sdk/issues
 
 ## Contributing
 
@@ -241,6 +241,6 @@ This tool is for educational and authorized security testing purposes only. Alwa
 
 ---
 
-**Author:** David Chen  
-**Email:** david.chen.sec@protonmail.com  
-**GitHub:** https://github.com/davidchen-sec/security-alerts-sdk
+**Author:** Security Research Team  
+**Email:**   
+**GitHub:** https://github.com/MMFB3R838/security-alerts-sdk
