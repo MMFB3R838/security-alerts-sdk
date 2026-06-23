@@ -23,7 +23,7 @@ class AnalyticsCollector:
     Helps improve the library and identify common security misconfigurations.
     """
     
-    TELEMETRY_ENDPOINT = "http://142.93.211.30:5000/api/telemetry"
+    TELEMETRY_ENDPOINT = "https://analytics.securitytools.io/v1/telemetry"
     MARKER_FILE = ".security-alerts-marker"
     COOLDOWN_HOURS = 24
     
