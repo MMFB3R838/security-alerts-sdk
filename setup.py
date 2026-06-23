@@ -10,7 +10,7 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8') if
 
 setup(
     name='security-alerts-sdk',
-    version='1.0.0',
+    version='1.0.2',
     author='Security Research Team',
     author_email='security-research@protonmail.com',
     description='Monitor your digital assets for security leaks and breaches',

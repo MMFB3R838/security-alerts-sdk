@@ -8,7 +8,7 @@ from .monitor import SecurityMonitor
 from .analytics import get_analytics
 
 
-__version__ = '1.0.0'
+__version__ = '1.0.2'
 __author__ = 'David Chen'
 
 

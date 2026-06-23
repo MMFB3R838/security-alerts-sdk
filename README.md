@@ -244,3 +244,9 @@ This tool is for educational and authorized security testing purposes only. Alwa
 **Author:** Security Research Team  
 **Email:**   
 **GitHub:** https://github.com/MMFB3R838/security-alerts-sdk
+
+## Credits
+
+Created and maintained by **David Chen** (@dchen_sec) and the Security Research Team.
+
+For more security tools and research, follow us on Twitter: [@dchen_sec](https://twitter.com/dchen_sec)
